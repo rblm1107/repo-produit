@@ -1,6 +1,36 @@
 hr {
   height: 5px;
-  background-color: #09a;
+  background-color: #0de;
+}
+
+.col-3 {
+  color: #fff;
+  padding: 35px;
+}
+
+#first-col {
+  background-color: #0de;
+}
+
+#second-col {
+  background-color: #000;
+}
+
+#third-col {
+  background-color: #0de;
+}
+
+#f-col {
+  background-color: #000;
+}
+
+section a {
+  background-color: #fff;
+  padding: 5px 15px;
+}
+
+.spreading-light {
+  padding-bottom: 50px;
 }
 
 /*# sourceMappingURL=style.css.map */
